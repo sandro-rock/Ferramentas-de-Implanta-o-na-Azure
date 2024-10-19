@@ -1,1 +1,9 @@
+Ferramentas de implantação na azure
 
+Azure CLI e PowerShell: Ferramentas de linha de comando para gerenciar e implantar recursos com scripts personalizados. Podem ser integradas a pipelines de CI/CD.
+
+Bicep: Linguagem simplificada para criar templates ARM e gerenciar infraestrutura de forma mais acessível.
+
+Automatize usando pipelines.
+Armazene configurações no controle de versão.
+Monitore e audite suas implantações com Azure Monitor.
